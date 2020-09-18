@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 # PREPROCESS FUNCTION FOR PREDICTION ON A SINGLE FRAME
-def preprocess_image(img, side=250, split="none"): 
+def preprocessImage(img, side=250, split="none"): 
     '''
     @andres + francis
     input : raw image
