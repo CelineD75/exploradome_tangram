@@ -1,4 +1,6 @@
-# **TangrIAm** Project
+[![Build Status](https://travis-ci.com/CelineD75/exploradome_tangram.svg?branch=cnn-dev)](https://travis-ci.com/CelineD75/exploradome_tangram)
+
+# **TangrIAm** Project 
 
 The project is a partnership between Exploradôme museum, OCTO Technology and Microsoft and it aims to introduce the concept and application of artificial intelligence to young children. The specific application developed for the project is to apply object detection to live tangram solving.
 
