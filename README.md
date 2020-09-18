@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/CelineD75/exploradome_tangram.svg?branch=cnn-dev)](https://travis-ci.com/CelineD75/exploradome_tangram)
 
-[!Build Status](tangram/exploradome_tangram/measure.svg)
+![Build Status](measure.svg)
 
 # **TangrIAm** Project 
 
