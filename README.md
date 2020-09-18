@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/CelineD75/exploradome_tangram.svg?branch=cnn-dev)](https://travis-ci.com/CelineD75/exploradome_tangram)
 
-[![Quality Gate Status](http://localhost:9000/api/project_badges/measure?project=cnn-dev&metric=alert_status)](http://localhost:9000/dashboard?id=cnn-dev)
+[!Build Status](http://localhost:9000/api/project_badges/measure?project=cnn-dev&metric=alert_status)
 
 # **TangrIAm** Project 
 
