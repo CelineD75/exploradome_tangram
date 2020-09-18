@@ -8,4 +8,4 @@ scipy==1.4.1
 scikit-image
 fastai
 wandb
-pytest
+# pytest
